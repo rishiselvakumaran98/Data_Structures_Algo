@@ -1,6 +1,10 @@
 {
     "cSpell.words": [
+        "Leetcode",
+        "Neetcode",
         "nums",
+        "Roadmap",
         "strs"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
