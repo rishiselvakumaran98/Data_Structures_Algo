@@ -10,7 +10,3 @@ class Solution:
                     return True
             visitedHash[nums[i]] = i
         return False
-        
-assert Solution().containsNearbyDuplicate([1,2,3,1],3)== True, "Not true, Hahaha  you Failed!"
-assert Solution().containsNearbyDuplicate([1,0,1,1],1)== True, "Not true, Hahaha  you Failed!"
-assert Solution().containsNearbyDuplicate([1,2,3,1,2,3],2)== False, "Not False, Hahaha  you Failed!"
